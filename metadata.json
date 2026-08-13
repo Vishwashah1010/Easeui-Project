@@ -1,0 +1,6 @@
+{
+  "name": "EaseUI",
+  "description": "A modern React animated UI component library and showcase built with Tailwind CSS and GSAP",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
